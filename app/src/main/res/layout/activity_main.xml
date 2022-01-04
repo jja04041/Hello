@@ -14,7 +14,7 @@
         android:background="#FFFF00"
         android:textAlignment="center"
         android:text="첫번째 화면 안내문"
-        android:textSize="16pt"
+        android:textSize="12pt"
         android:gravity="center_horizontal" />
 
     <LinearLayout

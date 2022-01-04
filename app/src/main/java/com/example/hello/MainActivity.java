@@ -13,7 +13,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-    int count = 0;
+    int count = 1;
     int[] picture = {
             R.drawable.pic1, R.drawable.pic2, R.drawable.pic3, R.drawable.pic4, R.drawable.pic5
     };
