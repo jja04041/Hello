@@ -41,6 +41,8 @@ public class MainActivity extends Activity {
             Log.i("kim","move: close 닫기처리");
             String msg = "현재 화면을 닫기 close 합니다";
             Toast tt = Toast.makeText(getApplicationContext(),msg,Toast.LENGTH_LONG);
+            Toast pp =Toast.makeText(getApplicationContext(),msg,Toast.LENGTH_SHORT);
+            pp.show();
             tt.show();
             this.finish();
         }
