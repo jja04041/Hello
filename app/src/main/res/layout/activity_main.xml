@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:background="#FFFF00"
         android:textAlignment="center"
-        android:text="커밋 테스트3 브랜치테스트 김서윤 참가?"
+        android:text="커밋 테스트3 브랜치테스트 서윤브랜치 확인"
         android:textSize="12pt"
         android:gravity="center_horizontal" />
 
