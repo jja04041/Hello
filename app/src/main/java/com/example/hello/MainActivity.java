@@ -36,7 +36,7 @@ public class MainActivity extends Activity {
         if(sel == R.id.btImageChange){
             iv.setImageResource(picture[count]);
             count++;
-            if (count>4) {count=0;}
+            if (count>3) {count=0;}
         }else if(sel == R.id.btClose){
             Log.i("kim","move: close 닫기처리");
             String msg = "현재 화면을 닫기 close 합니다";
