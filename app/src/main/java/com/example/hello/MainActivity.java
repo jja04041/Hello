@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
         }else if(sel == R.id.btClose){
             Log.i("kim","move: close 닫기처리");
             String msg = "현재 화면을 닫기 close 합니다";
-            String msg123 = "이번학기도 화이팅!";
+            String msg123 = "이번학기도 화이팅!123";
 
             Toast tt = Toast.makeText(getApplicationContext(),msg,Toast.LENGTH_LONG);
             Toast pp =Toast.makeText(getApplicationContext(),msg,Toast.LENGTH_SHORT);
