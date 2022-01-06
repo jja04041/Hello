@@ -41,6 +41,8 @@ public class MainActivity extends Activity {
             Log.i("kim","move: close 닫기처리");
             String msg = "현재 화면을 닫기 close 합니다";
 //            String msg123 = "이번학기도 화이팅!";
+            //before master 체크
+
 
             Toast tt = Toast.makeText(getApplicationContext(),msg,Toast.LENGTH_LONG);
             Toast pp =Toast.makeText(getApplicationContext(),msg,Toast.LENGTH_SHORT);
